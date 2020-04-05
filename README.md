@@ -1,5 +1,7 @@
-# mastering-git-web
+## CapstoneDesign1 Project
 
-This repository houses a proposed website for the Mastering Git book.
+**DATE** 2020.04 ~
 
-Contact: mwkoo@sogang.ac.kr
+**TEAM** 20171655 양희린
+
+**CONTENT** 사용자에게 편의를 제공하는 앱 개발
